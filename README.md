@@ -63,6 +63,7 @@ To use `Voluntr`, you need to:
 
 ## Contributing
 Interested in contributing to `Voluntr`? We welcome contributions of all forms. Please feel free to fork the repository, make changes, and submit pull requests. For substantial changes, please open an issue first to discuss what you would like to change.
+Figma URL: https://www.figma.com/design/eiAQEUCLK8zo73Ew2v4PDz/Untitled?node-id=0-1&node-type=canvas 
 
 ## Credits
 This project is brought to you by the dedicated students of SUTD.
